@@ -1,4 +1,4 @@
-# Hi there :wave:, I’m Finn!
+# Hello World :wave:, I’m Finn!
 
 ### :smile: My Skills
 * HTML
